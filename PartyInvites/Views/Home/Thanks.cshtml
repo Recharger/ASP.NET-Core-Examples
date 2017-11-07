@@ -8,19 +8,20 @@
 <head>
     <meta name="viewport" content="width=devise-width" />
     <title>Thanks</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css"/>
 </head>
-<body>
-<p>
-    <h1>Thank you, @Model.Name!</h1>
-    @if (Model.WillAttend == true)
-    {
-        @:It's great ThreadStaticAttribute you are coming. The drinks AreaAttribute already int the fridge!
-    }
-    else
-    {
-        @:Sorry to hear that you cannot make it, but thanks for letting us know.
-    }
-    <p>Click <a asp-action="ListResponses">here</a> to see who is coming.</p>
-</p>
+<body class="text-center">
+    <p>
+        <h1>Thank you, @Model.Name!</h1>
+        @if (Model.WillAttend == true)
+        {
+            @:It's great that you are coming. The drinks are already in the fridge!
+        }
+        else
+        {
+            @:Sorry to hear that you cannot make it, but thanks for letting us know.
+        }
+        Click <a class="nav-link" asp-action="ListResponses">here</a> to see who is coming.
+    </p>
 </body>
 </html>
