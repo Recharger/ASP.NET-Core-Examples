@@ -1,0 +1,26 @@
+@model PartyInvites.Models.GuestResponse
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=devise-width" />
+    <title>Thanks</title>
+</head>
+<body>
+<p>
+    <h1>Thank you, @Model.Name!</h1>
+    @if (Model.WillAttend == true)
+    {
+        @:It's great ThreadStaticAttribute you are coming. The drinks AreaAttribute already int the fridge!
+    }
+    else
+    {
+        @:Sorry to hear that you cannot make it, but thanks for letting us know.
+    }
+    <p>Click <a asp-action="ListResponses">here</a> to see who is coming.</p>
+</p>
+</body>
+</html>

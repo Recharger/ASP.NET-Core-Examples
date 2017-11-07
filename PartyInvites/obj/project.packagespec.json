@@ -1,0 +1,37 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/PartyInvites.csproj",
+    "projectName": "PartyInvites",
+    "projectPath": "/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/PartyInvites.csproj",
+    "outputPath": "/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

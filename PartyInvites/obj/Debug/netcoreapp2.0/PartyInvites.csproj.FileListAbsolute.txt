@@ -1,0 +1,10 @@
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.deps.json
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.runtimeconfig.json
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.runtimeconfig.dev.json
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.dll
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/bin/Debug/netcoreapp2.0/PartyInvites.pdb
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.csproj.CoreCompileInputs.cache
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.AssemblyInfoInputs.cache
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.AssemblyInfo.cs
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.dll
+/home/ygn/Projects/RiderProjects/PartyInvites/PartyInvites/obj/Debug/netcoreapp2.0/PartyInvites.pdb
